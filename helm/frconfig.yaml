@@ -1,0 +1,4 @@
+domain: .my-domain.com
+git:
+  repo: git@github.com:myAccount/forgeops-init.git
+  branch: my-branch
